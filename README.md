@@ -120,14 +120,6 @@ FS = Faktor keamanan
 σ' = Tekanan efektif (kPa)
 ```
 
-## 🎯 Target Pengguna
-
-- **Mahasiswa:** Pembelajaran geoteknik dan mekanika tanah
-- **Dosen:** Media pengajaran dan demonstrasi
-- **Engineer:** Analisis cepat dan referensi
-- **Peneliti:** Simulasi dan analisis data
-- **Konsultan:** Laporan dan presentasi klien
-
 ## 🔮 Fitur Masa Depan
 
 - [ ] Integrasi dengan backend Node.js
