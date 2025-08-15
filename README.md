@@ -141,8 +141,8 @@ Kontribusi untuk pengembangan aplikasi sangat dihargai. Silakan buat pull reques
 
 ## 📞 Kontak
 
-Untuk pertanyaan atau saran, silakan hubungi tim pengembang.
+Untuk pertanyaan atau saran, silakan hubungi DCAIT
 
 ---
 
-**Dibuat dengan ❤️ untuk kemajuan pendidikan geoteknik di Indonesia**
+**Dibuat dengan ❤️ untuk kemajuan geoteknik di Indonesia**
